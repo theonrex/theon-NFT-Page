@@ -1185,7 +1185,7 @@ p {
 
     .gather {
 
-        font-size: 2.5em;
+        font-size: 2.2em;
     }
 
     .first-nft br {
@@ -1320,7 +1320,9 @@ p {
         color: white;
         padding: 2px 15px;
     }
-
+ .first-nft br {
+     display: none;
+ }
     .bid-btn {
         display: block;
         flex-wrap: inherit;
