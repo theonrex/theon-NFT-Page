@@ -229,13 +229,16 @@ a {
     padding-bottom: 33px;
     width: 100%;
 }
+.first-counter br{
+    display: block !important;
+}
 
 .gather {
     font-family: 'Itim', cursive;
     color: #fff;
     font-weight: bold;
     text-transform: uppercase;
-    font-size: 6em;
+    font-size: 5em;
 }
 
 .first-section p {
@@ -1037,7 +1040,7 @@ p {
     //first section
     .gather {
         text-align: center;
-        font-size: 5em;
+        font-size: 4em;
     }
 
     .first-nft p {
