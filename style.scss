@@ -238,7 +238,8 @@ a {
     color: #fff;
     font-weight: bold;
     text-transform: uppercase;
-    font-size: 5em;
+    padding-top: 0.6em;
+    font-size: 4.5em;
 }
 
 .first-section p {
@@ -334,7 +335,9 @@ a {
 
     padding: 22px;
 }
-
+.gradient-box h1{
+    text-decoration: underline;
+}
 .gradient-box {
     position: relative;
     box-sizing: border-box;
